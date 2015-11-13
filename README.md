@@ -1,4 +1,4 @@
 # Hello-World
 Joe
 
-Hoi ik ben Milo
+Hoi wij zijn Milo en Lars.
